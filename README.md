@@ -36,7 +36,7 @@ We use encryption, secure API connections, and verified third-party partners (St
 ---
 
 ## User Rights
-You can request deletion or correction of your personal data by contacting us at **support@cubeinc.io**.
+You can request deletion or correction of your personal data by contacting us at **robel@cubemoney.io**.
 
 ---
 
@@ -50,5 +50,5 @@ Any changes will be reflected here with the “Last Updated” date.
 
 ## Contact
 **Cube Team**  
-📧 Email: [support@cubeinc.io](mailto:support@cubeinc.io)  
-🌐 Website: [https://cubeinc.io](https://cubeinc.io)
+📧 Email: [robel@cubemoney.io](mailto:robel@cubemoney.io)  
+🌐 Website: [https://cubemoney.io](https://cubemoney.io)
